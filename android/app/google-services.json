@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481013186924",
+    "project_id": "bitki-otomasyon",
+    "storage_bucket": "bitki-otomasyon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481013186924:android:09debc76f97499f4df3349",
+        "android_client_info": {
+          "package_name": "com.example.zz_bitkiotomasyon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDOZN3lLnKYEXD-0JZm3vuHIw343R1KCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
